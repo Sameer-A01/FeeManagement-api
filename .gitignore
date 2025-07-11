@@ -1,4 +1,5 @@
-/server/node_modules
+node_modules/
+/uploads
 
 # Ignore log files
 *.log
