@@ -1,0 +1,8 @@
+/server/node_modules
+
+# Ignore log files
+*.log
+
+# Ignore any specific IDE or editor files
+.vscode/
+.idea/
